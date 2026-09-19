@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**carsonkipkalya/carsonkipkalya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=1000&color=E6EDF3&width=435&lines=Hey%2C+I'm+Carson+Kipkalya;A+student+of+systems;I+build+with+code%2C+AI;and+design+with+stories)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+---
+
+### 📫 Socials
+
+---
+
+<div align="center">
+<sub>Exploring ideas, one project at a time </sub>
+</div>
